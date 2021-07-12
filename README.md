@@ -20,7 +20,8 @@
 I really like doing personal projects related to frontend development & some backend too. My favorite libary or framework is ReactJS but I also have worked with JavaScript vainilla & Jquery.<br><br>
 Some of my projects:<br>
 
-<li> <a href="https://github.com/OgmaCapStone/ogma-client">Ogma App</a></li>
+<li> <a href="https://github.com/OgmaCapStone/ogma-client">Ogma App: A web application for programmers in order to test their knowledge in an specific technology.</a></li>
+<li> <a href="https://github.com/RubDevs/covid-statistics">COVID Statistics: Web application created to display & show different type of statics (Cases, Deaths & Ratio) regarding COVID-19 in different countries around the world.</a></li>
 
 ---
 
