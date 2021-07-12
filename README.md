@@ -9,7 +9,7 @@
   &nbsp;
   <a href="https://platzi.com/p/sebastianballen/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br>
 <h1 align="center">About me 👨‍💻</h1>
 <p>Frontend developer, specialized in web technologies like ReactJS, JavaScript, HTML, CSS, SASS, Bootstrap & more. Focused in create quality and high-performance software. Self-taught, I love learning about tech & desing.</p>
 
