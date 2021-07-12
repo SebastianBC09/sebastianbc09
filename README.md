@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "assets/Logo.png" width = 150> </a>
+<img src = "/assets/Logo.png" width = 150> </a>
 </p>
 <h1 align=center><font size = 5>Hi there 👋! I'm Sebastian Ballen<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
