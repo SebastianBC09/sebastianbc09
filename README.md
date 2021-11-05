@@ -28,16 +28,21 @@ Some of my projects:<br>
 <h3>👨‍💻 Skills</h3>
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
+
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
 
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Dart](https://img.shields.io/badge/_-Dart-292e33?style=flat-square&logo=dart&logoColor=fff)
+![Flutter](https://img.shields.io/badge/_-Flutter-292e33?style=flat-square&logo=flutter&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![cPanel](https://img.shields.io/badge/_-cPanel-292e33?style=flat-square&logo=cPanel&logoColor=fff)
