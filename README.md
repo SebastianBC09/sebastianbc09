@@ -47,7 +47,7 @@ _I enjoy building projects to hone my technical skills and explore new technolog
 ## Resources
 Contact me or download my latest CV:
 - Email: <a style="margin-left: 8px;" href="mailto:sebastian.ballenc@proton.me">sebastian.ballenc@proton.me</a>
-- CV: <a style="text-align: center;" href="CV_Sebastian_Ballen.pdf">Curriculum Vitae</a>
+- CV: <a style="text-align: center;" href="CV_Juan_Sebastian_Ballen_Castaneda.pdf">Curriculum Vitae</a>
 
 <!---
 SebastianBC09/SebastianBC09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
