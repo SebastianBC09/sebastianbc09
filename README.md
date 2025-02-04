@@ -77,11 +77,17 @@ Comprehensive banking simulation | [Repository](https://github.com/SebastianBC09
 | ---------------- |
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-| *GitHub Stats* | *Programming Languages* |
-| -------------- | ----------------------- |
-| ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianBC09&show_icons=true&theme=city_lights) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBC09&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) |
+| *GitHub Stats* | *Streak Stats* | *Programming Languages* | 
+| -------------- | -------------- | ----------------------- |
+| ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianBC09&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SebastianBC09&theme=shades-of-purple&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBC09&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![Top Trophies](https://github-profile-trophy.vercel.app/?username=SebastianBC09&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SebastianBC09&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ## 📬 Let's Connect!
 
