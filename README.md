@@ -9,7 +9,7 @@ _Here are my main projects that showcase my current skills:_
 ### Minecraft Achievement Tree
 [![Minecraft Achievement Tree](./assets/minecraft-tree.png)](https://feat-fixes.d17kq6ng6c4wtc.amplifyapp.com/)
 
-Interactive achievement system inspired by Minecraft's progression | [Live Demo](https://feat-fixes.d17kq6ng6c4wtc.amplifyapp.com/) | [Repo](https://github.com/SebastianBC09/React-Wiki-Project)
+Interactive achievement system inspired by Minecraft's progression | [Live Demo](https://feat-fixes.d17kq6ng6c4wtc.amplifyapp.com/)
 
 `React` `TypeScript` `Redux Toolkit` `AWS Amplify`
 
@@ -43,8 +43,8 @@ Dynamic wiki exploring animated series characters | [Live Demo](https://react-wi
 ### 💻 Desktop Applications
 ### AgroTech Suite
 Agricultural management system with data processing capabilities
-  - **Main App:**  `Java` `JavaFX` | [Repo](https://github.com/SebastianBC09/AgroTech2.0-App)
-  - **Data Processor:** `Java` `Data Processing` | [Repo](https://github.com/SebastianBC09/AgroTech-Data-Processor)
+  - **Main App:**  `Java` `JavaFX` | [Repository](https://github.com/SebastianBC09/AgroTech2.0-App)
+  - **Data Processor:** `Java` `Data Processing` | [Repository](https://github.com/SebastianBC09/AgroTech-Data-Processor)
 
 ### ATM System
 Comprehensive banking simulation | [Repository](https://github.com/SebastianBC09/ATM-Java)
