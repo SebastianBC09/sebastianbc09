@@ -9,7 +9,7 @@ _Here are my main projects that showcase my current skills:_
 ### SpaceX Launches Tracker
 [![SpaceX Launches Tracker](./assets/spacex-tracker.png)](https://github.com/SebastianBC09/spacex-launch-dashboard)
 
-Aplicación completa para rastrear lanzamientos de SpaceX con arquitectura frontend/backend | [Repo](https://github.com/SebastianBC09/spacex-launch-dashboard)
+Complete application for tracking SpaceX launches with frontend/backend architecture | [Repo](https://github.com/SebastianBC09/spacex-launch-dashboard)
 
 `React` `Tailwind CSS` `AWS ECS` `AWS API Gateway` `AWS Lambda` `DynamoDB` `Serverless`
 
