@@ -113,5 +113,5 @@ Looking to discuss a project, explore job opportunities, or just want to say hi?
 
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sebastian.ballenc@proton.me)
 
-[![CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](CV%20Juan%20Sebastian%20Ballen%20Castaneda%20-%20Frontend%20developer.pdf)
+[![CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](CV%20Sebastian%20Ballen%20-%20Frontend%20developer.pdf)
 
