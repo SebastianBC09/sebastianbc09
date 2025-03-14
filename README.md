@@ -6,6 +6,14 @@ Bilingual developer with experience in both LATAM and North American companies. 
 
 _Here are my main projects that showcase my current skills:_
 
+### SpaceX Launches Tracker
+[![SpaceX Launches Tracker](./assets/spacex-tracker.png)](https://github.com/SebastianBC09/spacex-launch-dashboard)
+
+Aplicación completa para rastrear lanzamientos de SpaceX con arquitectura frontend/backend | [Repo](https://github.com/SebastianBC09/spacex-launch-dashboard)
+
+`React` `Tailwind CSS` `AWS ECS` `AWS API Gateway` `AWS Lambda` `DynamoDB` `Serverless`
+
+
 ### Minecraft Achievement Tree
 [![Minecraft Achievement Tree](./assets/minecraft-tree.png)](https://feat-fixes.d17kq6ng6c4wtc.amplifyapp.com/)
 
